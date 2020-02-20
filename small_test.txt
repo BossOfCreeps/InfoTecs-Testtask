@@ -1,0 +1,12 @@
+             58416    48101 goncharov    _cntl\win32
+M            58416    48101 goncharov    _cntl\win32\altpubserv.vcproj
+M            58416    18936 goncharov    _cntl\win32\makehelp.bat
+             58416    30506 goncharov    _cntl\win32\altpubserv.dsp
+M            58416    36480 goncharov    _cntl\win32\altpubserv.exe.manifest
+             58416    48101 goncharov    _cntl
+D            58416    35626 goncharov    source\crl_downloader.cpp
+?            58416    27063 goncharov    source\settings.cpp
+D            58416    36846 goncharov    source\acoptattr.cpp
+A  +             -    52635 goncharov    source\page-ad-connection-params.cpp
+      C      58416    54700 goncharov    source\viewpubcrldlg.cpp
+           >   local edit, incoming delete upon merge
